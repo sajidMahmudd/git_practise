@@ -3,5 +3,12 @@ Hello Git!
 This is my SPL-1 Git practice repository.
 I am learning version control using text files.
 
-Version 1: My first Git practice.
-I love Faria Mim
+Version 1: My first git practise
+Version 2: Learning Git commands.
+
+Today I practiced:
+1. git status
+2. git diff
+3. git add
+4. git commit
+5. git push
