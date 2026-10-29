@@ -1,0 +1,7 @@
+Hello Git!
+
+This is my SPL-1 Git practice repository.
+I am learning version control using text files.
+
+Version 1: My first Git practice.
+I love Faria Mim
