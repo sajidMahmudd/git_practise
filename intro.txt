@@ -12,3 +12,8 @@ Today I practiced:
 3. git add
 4. git commit
 5. git push
+
+Version 3: Remote Repository Practice.
+
+This line was added directly from GitHub.
+Now I will fetch and pull it into VS Code.
